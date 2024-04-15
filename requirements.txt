@@ -1,7 +1,6 @@
 h5py>=2.10.0
 scipy>=1.4.1
 numpy>=1.20.0
-opencv_python>=4.3.0.36
 tensorflow~=2.8.0
 natsort>=7.1.1
 matplotlib>=3.4.1
@@ -12,8 +11,8 @@ Pillow>=8.2.0
 imgaug >= 0.4.0
 
 Pyment~=0.3.3
-opencv-python~=4.5.1.48
-scikit-learn~=0.24.1
+opencv-python>=4.5.1.48
+scikit-learn>=0.24.1
 setuptools~=56.0.0
 
 pandas~=1.5
